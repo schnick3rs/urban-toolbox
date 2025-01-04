@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5807b7-3e99-4778-8ff4-b6cdd9884fca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/playbooks/moves.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/playbooks/moves.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/urban-toolbox.iws" beforeDir="false" afterPath="$PROJECT_DIR$/urban-toolbox.iws" afterDir="false" />
     </list>
@@ -118,7 +117,7 @@
       <workItem from="1726149662109" duration="6716000" />
       <workItem from="1726215599173" duration="30402000" />
       <workItem from="1735981629619" duration="343000" />
-      <workItem from="1736005704830" duration="3161000" />
+      <workItem from="1736005704830" duration="4515000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -128,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726473862102</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add CORE moves">
+      <option name="closed" value="true" />
+      <created>1736009633382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736009633382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +145,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="add CORE moves" />
+    <option name="LAST_COMMIT_MESSAGE" value="add CORE moves" />
   </component>
 </project>
